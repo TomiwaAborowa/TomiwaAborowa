@@ -6,13 +6,18 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_rowa" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_rowa?logo=twitter&style=for-the-badge" alt="i_am_rowa" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and React.**
+**Here's a quick summary about me:**
+- 😊 Pronouns: He/him
 
-- 💻 I'm currenrtly a student at <a href="https://thealtschool.com/">**Altschool Africa.**</a>
+- 🌱 I’m currently learning **JavaScript, Reactjs, and Node.js**.
 
 - 📫 How to reach me **tomiwaw2013@gmail.com**
 
-- ⚡ Fun fact **I am eager to learn and socialize with people in my field and beyond and love basketball.**
+- 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
