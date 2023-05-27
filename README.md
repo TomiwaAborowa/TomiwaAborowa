@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomiwaaborowa&label=Profile%20views&color=0e75b6&style=flat" alt="tomiwaaborowa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/i_am_rowa" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_rowa?logo=twitter&style=for-the-badge" alt="i_am_rowa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Spadepie007" target="blank"><img src="https://img.shields.io/twitter/follow/Spadepie007?logo=twitter&style=for-the-badge" alt="Spadepie007" /></a> </p>
 
 **Here's a quick summary about me:**
 - 😊 Pronouns: He/him
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Spadepie007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_rowa" height="30" width="40" /></a>
+<a href="https://twitter.com/Spadepie007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Spadepie007" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tomiwa-aborowa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomiwa aborowa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tomiwa.goodness.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aborowa tomiwa goodness" height="30" width="40" /></a>
 <a href="https://instagram.com/r_0_w_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_0_w_a" height="30" width="40" /></a>
