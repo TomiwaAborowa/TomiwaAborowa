@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/i_am_rowa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_rowa" height="30" width="40" /></a>
+<a href="https://twitter.com/Spadepie007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_rowa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tomiwa-aborowa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomiwa aborowa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tomiwa.goodness.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aborowa tomiwa goodness" height="30" width="40" /></a>
 <a href="https://instagram.com/r_0_w_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_0_w_a" height="30" width="40" /></a>
