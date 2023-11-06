@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/Spadepie007" target="blank"><img src="https://img.shields.io/twitter/follow/Spadepie007?logo=twitter&style=for-the-badge" alt="Spadepie007" /></a> </p>
 
 **Here's a quick summary about me:**
-- 😊 Pronouns: He/him
+- 😊 Pronouns: He/him 
 
 - 🌱 I’m currently learning **JavaScript, Reactjs, and Node.js**.
 
