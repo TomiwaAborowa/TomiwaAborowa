@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tomiwaw2013@gmail.com**
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+- 💡 Fun fact: Graduate of AltSchool Africa School of Software Engineering Class of 2022.
 
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 
