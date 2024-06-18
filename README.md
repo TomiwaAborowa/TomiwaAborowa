@@ -15,7 +15,7 @@
 
 - 💡 Fun fact: Graduate of AltSchool Africa School of Software Engineering Class of 2022.
 
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, UI/UX Designer or UI Engineer (Intern or Junior level).
 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
