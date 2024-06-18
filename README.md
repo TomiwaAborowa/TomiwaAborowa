@@ -9,7 +9,7 @@
 **Here's a quick summary about me:**
 - 😊 Pronouns: He/him 
 
-- 🌱 I’m currently learning **JavaScript, Reactjs, and Node.js**.
+- 🌱 I’m currently learning **JavaScript, Reactjs, and Node.js**. I am also a UI/ux designer and proficient in Figma.
 
 - 📫 How to reach me **tomiwaw2013@gmail.com**
 
