@@ -9,7 +9,7 @@
 **Here's a quick summary about me:**
 - 😊 Pronouns: He/him 
 
-- 🌱 I am efficient at using **JavaScript, Reactjs, and Node.js**. I am also a UI/ux designer and proficient in Figma.
+- 🌱 I am efficient at using **JavaScript, Reactjs, Nextjs, TailwindCSS and Node.js**. I am also a UI/ux designer and proficient in Figma and Photoshop.
 
 - 📫 How to reach me **tomiwaw2013@gmail.com**
 
