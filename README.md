@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomiwa Aborowa</h1>
-<h3 align="center">A passionate frontend developer from Nigeria.</h3>
+<h3 align="center">A frontend developer and UI/UX designer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomiwaaborowa&label=Profile%20views&color=0e75b6&style=flat" alt="tomiwaaborowa" /> </p>
@@ -9,13 +9,13 @@
 **Here's a quick summary about me:**
 - 😊 Pronouns: He/him 
 
-- 🌱 I’m currently learning **JavaScript, Reactjs, and Node.js**. I am also a UI/ux designer and proficient in Figma.
+- 🌱 I am efficient at using **JavaScript, Reactjs, and Node.js**. I am also a UI/ux designer and proficient in Figma.
 
 - 📫 How to reach me **tomiwaw2013@gmail.com**
 
 - 💡 Fun fact: Graduate of AltSchool Africa School of Software Engineering Class of 2022.
 
-- 💼 Job interests: Software Engineer, Front Engineer, UI/UX Designer or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Frontend Developer, UI/UX Designer or UI Engineer (Intern or Junior level).
 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
